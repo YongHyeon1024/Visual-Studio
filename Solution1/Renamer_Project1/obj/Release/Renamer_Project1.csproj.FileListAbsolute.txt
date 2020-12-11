@@ -26,3 +26,4 @@ C:\GitHub\Visual-Studio\Solution1\Renamer_Project1\obj\Release\Renamer_Project1.
 C:\GitHub\Visual-Studio\Solution1\Renamer_Project1\obj\Release\Renamer_Project1.csproj.CoreCompileInputs.cache
 C:\GitHub\Visual-Studio\Solution1\Renamer_Project1\obj\Release\Renamer_Project1.exe
 C:\GitHub\Visual-Studio\Solution1\Renamer_Project1\obj\Release\Renamer_Project1.pdb
+C:\GitHub\Visual-Studio\Solution1\Renamer_Project1\obj\Release\Renamer_Project1.csprojAssemblyReference.cache
